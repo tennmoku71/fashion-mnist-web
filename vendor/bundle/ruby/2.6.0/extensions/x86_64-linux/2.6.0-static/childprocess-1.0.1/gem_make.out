@@ -1,5 +1,0 @@
-current directory: /home/ohira/mnist-web/vendor/bundle/ruby/2.6.0/gems/childprocess-1.0.1/ext
-/home/ohira/.rbenv/versions/2.6.3/bin/ruby mkrf_conf.rb
-
-current directory: /home/ohira/mnist-web/vendor/bundle/ruby/2.6.0/gems/childprocess-1.0.1/ext
-/home/ohira/.rbenv/versions/2.6.3/bin/ruby -rrubygems /home/ohira/mnist-web/vendor/bundle/ruby/2.6.0/gems/rake-12.3.2/exe/rake RUBYARCHDIR\=/home/ohira/mnist-web/vendor/bundle/ruby/2.6.0/extensions/x86_64-linux/2.6.0-static/childprocess-1.0.1 RUBYLIBDIR\=/home/ohira/mnist-web/vendor/bundle/ruby/2.6.0/extensions/x86_64-linux/2.6.0-static/childprocess-1.0.1
