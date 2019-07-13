@@ -1,24 +1,11 @@
-# README
+# 初期設定
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- install rbenv
+- install ruby(ruby '2.6.3')
+- cd mnist-web
+- bundle install --path vendor/bundle
+- bundle exec rails s
+- access http://localhost:3000/
 
-Things you may want to cover:
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...

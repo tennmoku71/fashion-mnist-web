@@ -1,0 +1,16 @@
+<%= form_with url: images_path, multipart: true  do |form| %>
+  <%= file_field :image, :file %>
+  <%= form.submit %>
+<% end %>
+
+<p id="result">画像をアップロードしてください</p>
+
+
+<script>
+$(function() {
+　$(document).on('ajax:success', 'form', function(e) {
+    $('#result').html(e.detail[0]);
+    console.log(e);
+  })
+})
+</script>
